@@ -1,0 +1,4 @@
+sanic
+Sanic-Cors
+tortoise-orm
+# tortoise-orm[asyncmy] # driver of mysql

@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.gitignore": true,
+        "**/__pycache__":true,
+        "**/.ipynb_checkpoints":true,
+        "**/[dD]ocker*":true,
+        "**/README.md":true,
+        "**/requirements.txt":true
+    }
+}
